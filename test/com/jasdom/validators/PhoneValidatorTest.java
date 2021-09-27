@@ -37,7 +37,7 @@ public class PhoneValidatorTest {
 
     @Test
     public void testBadShortened() {
-        assertTrue(phoneValidator.validate("765478947"));
+        assertFalse(phoneValidator.validate("765478947"));
     }
 
     @Test
