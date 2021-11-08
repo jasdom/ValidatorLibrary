@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="user_module:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68ba784e-34ab-4320-a79b-7370ad747b52" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/user_module_jar/user_module.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Program Files/apache-maven-3.8.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20Y5YKGHhM8mY7RZ1gpqtyv7SPK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/jasdom/user_module/user_module" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dominykas\Desktop\PSP\user_module\src\main\java\com\jasdom\user_module\user_module" />
+      <recent name="C:\Users\Dominykas\Desktop\PSP\user_module\src\main\webapp\WEB-INF\jsp" />
+      <recent name="C:\Users\Dominykas\Desktop\PSP\user_module\src\main\java\com\jasdom\user_module\user_module\controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dominykas\Desktop\PSP\user_module\lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jasdom.user_module.user_module.repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jasdom.user_module.user_module.controller" />
+      <recent name="com.jasdom.user_module.user_module.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserModuleApplication">
+    <configuration name="All in user_module" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user_module" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRestControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user_module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasdom.user_module.user_module.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jasdom.user_module.user_module.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.jasdom.user_module.user_module.controller.UserRestControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRestControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user_module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasdom.user_module.user_module.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jasdom.user_module.user_module.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.jasdom.user_module.user_module.controller.UserRestControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user_module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasdom.user_module.user_module.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jasdom.user_module.user_module.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jasdom.user_module.user_module.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user_module" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasdom.user_module.user_module.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jasdom.user_module.user_module.service" />
+      <option name="MAIN_CLASS_NAME" value="com.jasdom.user_module.user_module.service.UserValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserModuleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user_module" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jasdom.user_module.user_module.UserModuleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in user_module" />
+        <item itemvalue="JUnit.UserRestControllerTest" />
+        <item itemvalue="JUnit.UserRestControllerIntegrationTest" />
+        <item itemvalue="JUnit.UserValidatorTest" />
+        <item itemvalue="JUnit.UserServiceTest.testDelete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ba784e-34ab-4320-a79b-7370ad747b52" name="Changes" comment="" />
+      <created>1636208729026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636208729026</updated>
+      <workItem from="1636208730502" duration="147000" />
+      <workItem from="1636208884967" duration="340000" />
+      <workItem from="1636209234220" duration="5433000" />
+      <workItem from="1636216117778" duration="9394000" />
+      <workItem from="1636227080348" duration="4020000" />
+      <workItem from="1636231132127" duration="880000" />
+      <workItem from="1636232024240" duration="148000" />
+      <workItem from="1636232180759" duration="724000" />
+      <workItem from="1636232918651" duration="164000" />
+      <workItem from="1636233090408" duration="166000" />
+      <workItem from="1636233329370" duration="3148000" />
+      <workItem from="1636292473840" duration="3964000" />
+      <workItem from="1636369267855" duration="3651000" />
+      <workItem from="1636382229438" duration="8893000" />
+      <workItem from="1636401334204" duration="72000" />
+      <workItem from="1636401421266" duration="169000" />
+      <workItem from="1636401606813" duration="470000" />
+      <workItem from="1636402095475" duration="3853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
